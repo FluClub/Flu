@@ -1,0 +1,46 @@
+{
+  "selectionMenu": {
+    "copy": "复制",
+    "selectall": "全选"
+  },
+  "inputMenu": {
+    "undo": "撤销",
+    "redo": "重做",
+    "cut": "剪切",
+    "copy": "复制",
+    "paste": "粘贴",
+    "selectall": "全选"
+  },
+  "appMenu": {
+    "view": "视图",
+    "language-switch": "语言",
+    "langCodes": {
+      "en": "English",
+      "zh": "中文(简体)"
+    },
+    "edit": "编辑",
+    "about": "关于",
+    "services": "服务",
+    "hide": "隐藏",
+    "hideothers": "隐藏其它",
+    "unhide": "显示",
+    "quit": "退出",
+    "file": "文件",
+    "debug":"调试"
+  },
+  "debugMenu": {
+    "log":"查看日志",
+    "net":"网络",
+    "test":"测试网络",
+    "main":"主网",
+    "rmData": "清除区块数据"
+  },
+  "flu": {
+    "errors": {
+      "nodeChecksumMismatch": {
+        "title": "Checksum mismatch in downloaded node!",
+        "description": "__algorithm__: __hash__\n\nPlease install the __type__ node version __version__ manually."
+      }
+    }
+  }
+}

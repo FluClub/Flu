@@ -1,0 +1,46 @@
+{
+  "selectionMenu": {
+    "copy": "Copy",
+    "selectall": "Select All"
+  },
+  "inputMenu": {
+    "undo": "Undo",
+    "redo": "Redo",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "selectall": "Select All"
+  },
+  "appMenu": {
+    "view": "View",
+    "language-switch": "Language",
+    "langCodes": {
+      "en": "English",
+      "zh": "中文(简体)"
+    },
+    "edit": "Edit",
+    "about": "About",
+    "services": "Services",
+    "hide": "Hide",
+    "hideothers": "Hide Others",
+    "unhide": "Unhide",
+    "quit": "Quit",
+    "file": "File",
+    "debug":"Debug"
+  },
+  "debugMenu": {
+    "log": "View Log",
+    "net": "Net",
+    "main": "mainnet",
+    "test": "testnet",
+    "rmData": "Remove ChainData"
+  },
+  "flu": {
+    "errors": {
+      "nodeChecksumMismatch": {
+        "title": "Checksum mismatch in downloaded node!",
+        "description": "__algorithm__: __hash__\n\nPlease install the __type__ node version __version__ manually."
+      }
+    }
+  }
+}
