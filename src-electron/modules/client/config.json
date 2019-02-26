@@ -5,7 +5,7 @@
       "platforms": {
         "mac": {
           "download": {
-            "url": "https://github.com/FluClub/indexchain/releases/download/0.0.3/indexchain-darwin-0_0_3.tar.gz",
+            "url": "https://github.com/FluClub/Flu/raw/master/src/statics/mac/indexchain-darwin_0_0_3.tar.gz",
             "md5": "9125ef30be365c0fa3591ced9c15baa7",
             "type": "tar",
             "bin": "indexchain-darwin-0_0_3/indexchain"
@@ -20,7 +20,7 @@
         },
         "win": {
           "download": {
-            "url": "https://github.com/FluClub/indexchain/releases/download/0.0.3/indexchain-win-0_0_3.zip",
+            "url": "https://github.com/FluClub/Flu/raw/master/src/statics/win/indexchain-win_0_0_3.zip",
             "md5": "10f510e076ebbd66ce3b84bcdc4753d1",
             "type": "zip",
             "bin": "indexchain-win-0_0_3\\indexchain.exe"

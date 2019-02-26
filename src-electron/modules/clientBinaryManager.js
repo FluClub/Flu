@@ -11,7 +11,7 @@ import logger from './logger'
 
 const log = logger.create('ClientBinaryManager')
 
-const BINARY_URL = 'https://github.com/FluClub/indexchain/releases/download/0.0.3/clientBinaries.json'
+const BINARY_URL = 'https://raw.githubusercontent.com/FluClub/Flu/master/clientBinaries.json'
 
 import defaultClientBinaries from './client/config.json'
 
